@@ -8,3 +8,4 @@ xlrd
 pyephem
 scipy
 netCDF4
+numpydoc
