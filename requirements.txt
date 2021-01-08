@@ -7,3 +7,4 @@ astropy
 xlrd
 pyephem
 scipy
+netCDF4
