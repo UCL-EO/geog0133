@@ -10,7 +10,7 @@ Staff:
 
 Lectures and practicals are online.
 
-| Week commencing |  Course Week | Topic | Presentations  | Notes  | 
+| Week commencing |  Course Week | Topic | Presentations  | Notes  | |
 |---|---|---|---|---|---|
 | 11 Jan | 1 | 001 Course intro | [ppt](https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-001.pptx) | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/intro.html)
 | |   | 002 Carbon and Climate | [ppt](https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-002.pptx) | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/carbonClimate.html)
