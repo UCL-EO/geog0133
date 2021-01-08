@@ -25,79 +25,62 @@ Course GitHub pages
 -------------------
 `GitHub page <https://github.com/UCL-EO/geog0133>`_
 
-`Practicals <https://github.com/UCL-EO/geog0133-practicals>`_
-
-Additional Information
--------------------------
-
-[`Reading list <readingList.html>`_] [`Glossary of terms <glossary.html>`_]
-
 Timetable Term 2, Academic year 2020-21
 ----------------------------------------
 
 
 .. tabularcolumns:: |l|l|l|l|
+Timetable Term 2 2021
+---------------------
 
-+--------------+---------+---------+------------------------------------------------------+
-|Lecture       |  Date 1 | Date 2  | Name                                                 | 
-+--------------+---------+---------+------------------------------------------------------+
-|L0            |         | Fri 15/1|`Course intro`_                                       |
-+--------------+---------+---------+------------------------------------------------------+
-|L1            | Tue 19/1| Fri 22/1|`Terrestrial C Cycle`_                                |
-+--------------+---------+---------+------------------------------------------------------+
-|P1            | Tue 26/1| Fri 29/1|`Daisy World`_                                        |
-+--------------+---------+---------+------------------------------------------------------+
-|L2            | Tue  2/2| Fri  5/2|`Terrestrial Ecosystem Modelling`_                    |
-+--------------+---------+---------+------------------------------------------------------+
-|P2            | Tue  9/2| Fri 12/2|`Modelling practical`_                                |
-+--------------+---------+---------+------------------------------------------------------+
-|Reading Week  | Tue 16/2| Fri 18/2|                                                      |
-+--------------+---------+---------+------------------------------------------------------+
-|S1            | Tue 22/2| Fri 26/2| `Student Carbon Seminars`_                           |
-+--------------+---------+---------+------------------------------------------------------+
-|L3            | Tue  2/3| Fri  5/3| `Fire in the earth system Pt 1`_ `Pt 2`_ `Pt 3`_     |
-+--------------+---------+---------+------------------------------------------------------+
-|P3            | Tue  9/3| Fri 12/3| `Fire practical`_                                    | 
-+--------------+---------+---------+------------------------------------------------------+
-|S2            | Tue 16/3| Fri 19/3| `Measurement seminar - student-led`_                 |
-+--------------+---------+---------+------------------------------------------------------+
-|L4            | Tue 23/3| Fri 26/3| `Data Assimilation (DA)`_ `DA practical`_            |
-+--------------+---------+---------+------------------------------------------------------+
+Lectures and practicals are online.
 
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Week commencing   | Course Week   | Topic                                   | Presentations                                                                       | Notes                                                                                                                        |
++===================+===============+=========================================+=====================================================================================+==============================================================================================================================+
+| 11 Jan            | 1             | 001 Course intro                        | `ppt <https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-001.pptx>`__   | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/intro.html>`__                                              |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+|                   |               | 002 Carbon and Climate                  | `ppt <https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-002.pptx>`__   | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/carbonClimate.html>`__                                      |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| 18 Jan            | 2             | 003 Terrestrial Carbon Cycle            | `ppt <https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-003.pptx>`__   | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/carbonCycle.html>`__                                        |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+|                   |               | 004 Photosynthesis                      | `ppt <https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-004.pptx>`__   | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/photosynthesis.html>`__                                     |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| 25 Jan            | 3             | 005 Solar Radiation Practical           | |Binder|                                                                            | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/notebooks/005_Solar_Practical.html>`__                      |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| 1 Feb             | 4             | 006 Terrestrial Ecosystem Modelling     | `ppt <https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-006.pptx>`__   | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/modelling.html>`__                                          |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+|                   |               | 007 DGVMs                               | `ppt <https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-007.pptx>`__   | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/dgvms.html>`__                                              |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+|                   |               | 008 PEMs                                | `ppt <https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-008.pptx>`__   | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/pems.html>`__                                               |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| 8 Feb             | 5             | 009 Phenology                           | `ppt <https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-009.pptx>`__   | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/phenology.html>`__                                          |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+|                   |               | 010 Photosythesis Modelling             | `ppt <https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-010.pptx>`__   | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/modelling_photosynthesis.html>`__                           |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| 15 Feb            | 6             | Reading Week                            |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| 22 Feb            | 7             | 011 Photosythesis Practical             | |Binder|                                                                            | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/notebooks/011_Photosynthesis_Modelling_Practical.html>`__   |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| 1 Mar             | 8             | 012 Measurement (student-led seminar)   |                                                                                     | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/remoteSensing.html>`__                                      |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| 8 Mar             | 9             | 013 Data Assimilation                   | `ppt <https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-014.pptx>`__   | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/da_basics.html>`__                                          |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+|                   |               |                                         |                                                                                     | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/da.html>`__                                                 |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| 15 Mar            | 10            | Discussions / Revision                  |
++-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
 
-S1 is a student-led seminar, where you will be expected to provide overviews of topics related to the Terrestrial Carbon Cycle, in groups.  
-
-S2 is a student-led seminar, where you will be expected to research topics in measurement related to terrestrial Carbon, and give a series of short group seminars.
-
-
-.. _Course intro: https://moodle-1819.ucl.ac.uk/mod/resource/view.php?id=290310
-
-.. _Terrestrial C Cycle: https://moodle-1819.ucl.ac.uk/mod/resource/view.php?id=290311
-
-.. _Daisy World: https://github.com/UCL-EO/geog0133-practicals
-
-.. _Terrestrial Ecosystem Modelling: https://moodle-1819.ucl.ac.uk/mod/resource/view.php?id=290315
-
-.. _Modelling practical: https://github.com/UCL-EO/geog0133-practicals
-
-.. _Student Carbon Seminars: carbon.html
-
-.. _Fire in the earth system Pt 1: docs/figures/wooster_lecture1_fire_intro.pdf
-
-.. _Pt 2: https://github.com/UCL-EO/geog0133/tree/master/docs/figures/wooster_lecture2_fire.pdf
-
-.. _Pt 3: https://github.com/UCL-EO/geog0133/tree/master/docs/figures/Fires_and_climate.pdf
-
-.. _Fire practical: https://github.com/UCL-EO/geog0133-practicals
-
-.. _Measurement seminar - student-led: remoteSensing.html
-
-.. _Data Assimilation (DA): https://moodle-1819.ucl.ac.uk/mod/resource/view.php?id=290327
-
-.. _DA practical: https://github.com/jgomezdans/dalec_pf
-
-
-
+.. |Documentation Status| image:: https://readthedocs.com/projects/ucl-eo-geog0133/badge/?version=latest
+   :target: https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/?badge=latest
+.. |Binder| image:: https://mybinder.org/badge_logo.svg
+   :target: https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks%2F005_Solar_Practical.ipynb
+.. |Binder| image:: https://mybinder.org/badge_logo.svg
+   :target: https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks%2F011_Photosynthesis_Modelling_Practical.ipynb
+.. |Binder| image:: https://mybinder.org/badge_logo.svg
+   :target: https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks%2F005_Solar_Practical.ipynb
+.. |Binder| image:: https://mybinder.org/badge_logo.svg
+   :target: https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks%2F011_Photosynthesis_Modelling_Practical.ipynb
 
 
 
