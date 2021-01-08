@@ -25,15 +25,13 @@ Course GitHub pages
 -------------------
 `GitHub page <https://github.com/UCL-EO/geog0133>`_
 
+.. tabularcolumns:: |l|l|l|l|l|
+
 Timetable Term 2, Academic year 2020-21
 ----------------------------------------
 
 
-.. tabularcolumns:: |l|l|l|l|
-Timetable Term 2 2021
----------------------
 
-Lectures and practicals are online.
 
 +-------------------+---------------+-----------------------------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
 | Week commencing   | Course Week   | Topic                                   | Presentations                                                                       | Notes                                                                                                                        |
