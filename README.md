@@ -4,9 +4,6 @@ Staff:
 
 PL: Professor Philip Lewis
 
-MD: Professor Mathias Disney
-
-JGD: Dr Jose Gomez-Dans
 
 [![Documentation Status](https://readthedocs.com/projects/ucl-eo-geog0133/badge/?version=latest)](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/?badge=latest)
 
