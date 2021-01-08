@@ -2,7 +2,7 @@ nbsphinx
 matplotlib
 ipython
 IPython
-numpydoC
+numpy
 astropy
 xlrd
-
+pyephem
