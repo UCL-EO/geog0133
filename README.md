@@ -20,7 +20,7 @@ Lectures and practicals are online.
 | 1 Feb | 4 | 006 Terrestrial Ecosystem Modelling | [ppt](https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-006.pptx) | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/modelling.html)
 | |   | 007 DGVMs  | [ppt](https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-007.pptx) | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/dgvms.html)
 | |   |  008 PEMs | [ppt](https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-008.pptx) | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/pems.html)
-| 8 Feb  5  | 009 Phenology  | [ppt](https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-009.pptx) | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/phenology.html)
+| 8 Feb | 5  | 009 Phenology  | [ppt](https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-009.pptx) | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/phenology.html)
 | |  |  010 Photosythesis Modelling | [ppt](https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-010.pptx) | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/modelling_photosynthesis.html)
 | 15 Feb | 6 | Reading Week| 
 | 22 Feb | 7 |  011 Photosythesis Practical  | [notebook](https://github.com/UCL-EO/geog0133/blob/main/docs/notebooks/011_Photosynthesis_Modelling_Practical.ipynb) | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/notebooks/011_Photosynthesis_Modelling_Practical.html)
