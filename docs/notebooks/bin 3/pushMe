@@ -1,0 +1,6 @@
+#!/bin/bash
+here=`pwd`
+
+git add --all *
+git commit -m "updated from $here"
+git push 

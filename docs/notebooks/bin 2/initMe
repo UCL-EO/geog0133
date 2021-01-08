@@ -1,0 +1,43 @@
+#!/bin/bash
+
+# repo init or re-init
+# make sure empty repo exists
+
+reponame=$(basename $(pwd))
+fullname="UCL-EO/$reponame"
+
+read -p "confirm that https://github.com/$fullname exists (y/n) " -n 1 -r
+echo 
+if [[ ! $REPLY =~ ^[Yy]$ ]]
+then
+    echo "generate https://github.com/$fullname then re-run this script"
+    exit 1
+fi
+
+rm -rf .git
+
+echo "initialising repo https://github.com/$fullname"
+
+git init
+git add .gitignore
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/${fullname}.git
+git push -u origin main
+
+echo "done"
+
+read -p "upload the files here? (y/n) " -n 1 -r
+echo 
+if [[ ! $REPLY =~ ^[Yy]$ ]]
+then
+    echo "populate the repo then add, commit and push"
+    exit 1
+fi
+
+here=`pwd`
+
+git add --all *
+git commit -m "init of all files from $here"
+git push 
+
