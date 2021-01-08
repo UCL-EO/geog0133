@@ -1,0 +1,7 @@
+#!/bin/bash
+
+pip install --user --upgrade setuptools wheel
+python3 setup.py sdist bdist_wheel
+pip install --user twine
+python3 -m twine upload -r pypi dist/*
+
