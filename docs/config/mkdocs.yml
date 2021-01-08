@@ -1,0 +1,42 @@
+extra:
+  social:
+  - icon: fontawesome/brands/twitter
+    link: https://twitter.com/prof_plewis
+  - icon: fontawesome/brands/github
+    link: https://github.com/UCL-EO/geog0133-practicals
+google_analytics:
+- UA-1347772-1
+- auto
+nav:
+- 005_Solar_Practical.md
+- 011_Photosynthesis_Modelling_Practical.md
+markdown_extensions:
+- pymdownx.arithmatex:
+    generic: true
+extra_javascript:
+- javascripts/config.js
+plugins:
+- git-revision-date-localized
+- exclude:
+    glob:
+      - "*blank.tif"
+      - "*.pyc"
+      - "geog0133/__pycache__/*"
+      - "work/*"
+      - "__pycache__"
+      - "*.bin"
+      - "*.hdf"
+      - "*.store"
+      - "*.nc"
+      - "*.zip"
+      - "*.npz"
+      - "data/ucl/*"
+      - "*.vrt"
+
+repo_url: https://github.com/UCL-EO/geog0133-practicals
+site_author: Prof P. Lewis
+site_name: GEOG0133-Practicals
+theme:
+  logo: images/ucl.png
+  favicon: images/ucl.png
+  name: material
