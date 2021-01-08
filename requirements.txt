@@ -1,0 +1,8 @@
+nbsphinx
+matplotlib
+ipython
+IPython
+numpydoC
+astropy
+xlrd
+
