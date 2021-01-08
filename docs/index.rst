@@ -78,10 +78,6 @@ Timetable Term 2, Academic year 2020-21
    :target: https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks%2F011_Photosynthesis_Modelling_Practical.ipynb
 
 
-
-
-
-
 Contents
 ========
 
