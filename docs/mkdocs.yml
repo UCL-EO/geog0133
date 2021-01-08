@@ -1,0 +1,48 @@
+extra:
+  social:
+  - icon: fontawesome/brands/twitter
+    link: https://twitter.com/prof_plewis
+  - icon: fontawesome/brands/github
+    link: https://github.com/UCL-EO/geog0133-practicals
+extra_javascript:
+- javascripts/config.js
+google_analytics:
+- UA-1347772-1
+- auto
+markdown_extensions:
+- pymdownx.arithmatex:
+    generic: true
+nav:
+- Introduction: index.md
+- Solar Radiation:
+  - Solar Practical: 005_Solar_Practical.md
+  - Answers:
+    - Solar Practical: 005_Solar_Practical_answers.md
+- Photostnthesis Modelling:
+  - Photosynthesis Modelling Practical: 011_Photosynthesis_Modelling_Practical.md
+  - Answers:
+    - Photosynthesis Modelling Practical: 011_Photosynthesis_Modelling_Practical_answers.md
+plugins:
+- git-revision-date-localized
+- exclude:
+    glob:
+    - '*blank.tif'
+    - '*.pyc'
+    - geog0133/__pycache__/*
+    - work/*
+    - __pycache__
+    - '*.bin'
+    - '*.hdf'
+    - '*.store'
+    - '*.nc'
+    - '*.zip'
+    - '*.npz'
+    - data/ucl/*
+    - '*.vrt'
+repo_url: https://github.com/UCL-EO/geog0133-practicals
+site_author: Prof P. Lewis
+site_name: GEOG0133-Practicals
+theme:
+  favicon: images/ucl.png
+  logo: images/ucl.png
+  name: material
