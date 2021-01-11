@@ -199,6 +199,10 @@ Now, activate it:
 Next, we need to set up the correct kernel for the notes:
 
     python -m ipykernel install --name=conda-env-geog0133  --display-name 'conda env:geog0133'
+    
+Next run the post-build configuration script (sets up itens for Jupyter notebooks):
+
+    bin/postBuild 
 
 Now start Jupyter:
 
