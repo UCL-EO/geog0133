@@ -68,5 +68,15 @@ dependencies:
     - mkdocs-material
     - mkdocs-exclude
     - mkdocs-git-revision-date-localized-plugin
+    - recommonmark
+    - sphinx-markdown-tables
+    - sphinx-typlog-theme
+    - mkdocs-rtd-dropdown
+    - mkdocs-material
+    - astropy
+    - xlrd
+    - pyephem
+    - netCDF4
+    - numpydoc
 # conda env update -f environment.yml
 # python -m ipykernel install --name=conda-env-geog0111-geog0111-py --display-name 'conda env:geog0111-geog0111'

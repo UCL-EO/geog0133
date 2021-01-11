@@ -12,6 +12,7 @@ dependencies:
   - pip
   - pip:
 #    - jupyter_contrib_nbextensions
+    - urlpath
     - mkdocs
     - sphinx
     - mkdocs-jupyter
