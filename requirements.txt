@@ -1,7 +1,6 @@
 nbsphinx
 matplotlib
 ipython
-IPython
 numpy
 astropy
 xlrd
