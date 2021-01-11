@@ -107,4 +107,93 @@ Another way you can access this directory, should you need, is to use `ssh` to l
 3. Navigate to the directory `geog0133/docs/notebooks`
 4. Access the notebooks you want directly
 
+## Use Python on your own computer
+
+You can run these practicals locally on your own computer. The only problemn is that it is more copmnplicated for us to support any comnputing iussues you might have, which is why we suggest you use the UCL system.
+
+However, it it is not so hard to set things up and to run  it for yourself.
+
+### Install Python
+
+Whilst you *can* probably use any version of Python, we suggest you install [`Anaconda Python`](https://docs.anaconda.com/anaconda/install/). If you are very short on computer space, you might prefer the cut-down version [`Miniconda`](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/macos.html).
+
+
+### Clone the repository
+
+The code repository is on [github](https://github.com/UCL-EO/geog0133), so we need to pull a local copy. 
+
+You can do this in several ways:
+
+* Using `PyCharm` and `Anaconda Navigator` (if you installed Anaconda)
+* Using `GitHub Desktop`
+* Using `git` in a shell
+
+####  Using `PyCharm` and `Anaconda Navigator`
+
+We do not support this here, but you will find various online notes if you want to follow thbis path.
+
+#### Using `GitHub Desktop`
+
+If you are using MacOS or Windows, you can use the tool [`GitHub Desktop`](https://desktop.github.com) to manage your github repositories. 
+
+Download and install the tool. Then run it.
+
+Use the menu item `File -> Clone Repository` and enter `UCL-EO/geog0133` under the `GitHub.com` tab. So long as you haven't done this before, you should be able to hit the `Clone` buytton for the cloning to take place. Take note of where the repoisitory will be placed on your comnputer, e.g. `/Users/plewis/Documents/GitHub/geog0133`.
+
+Any time we update the repository, you just need to click `Fetch origin` to update.
+
+After this poiunt, just follow the same instructions as for using `git` directly at the section `Setting up the environment`.
+
+#### Using `git`
+
+Make sure you have `git`. You may be able to do that with:
+
+    conda install git
+
+or alternatively, search on the web for an installation of `git` for your operating system.
+
+Clone  the repository. First, choose a location where you want to put it, and `cd` there:
+
+    mkdir -p ~/Documents/GitHub
+    cd ~/Documents/GitHub
+
+Clone:
+
+    git clone https://github.com/UCL-EO/geog0133.git
+
+This will now have set up the directory `geog0111`. If you type:
+
+    ls geog0133
+
+You should see:
+
+    Install.md		bin			requirements.txt
+    LICENSE			docs
+    README.md		readthedocs.yml
+
+
+##### Setting up the environment
+
+Assuming you have cloned the repository though, now open a shell (Terminal) and type:
+
+    cd ~plewis/Documents/GitHub/geog0133/docs
+
+replacing `~plewis/Documents/GitHub/geog0133` with the location of your repository.
+
+Then, set up the environment with:
+
+    conda env create  --force -n geog0133 -f environment.yml
+
+This will take a few minutes, but will create the environment `geog0133` which contains all of the libaries you need for this course.
+
+Now, activate it:
+
+    conda activate geog0133
+
+Next, we need to set up the correct kernel for the notes:
+
+    python -m ipykernel install --name=conda-env-geog0133  --display-name 'conda env:geog0133'
+
+
+
 
