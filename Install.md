@@ -146,7 +146,13 @@ After this poiunt, just follow the same instructions as for using `git` directly
 
 #### Using `git`
 
-Make sure you have `git`. You may be able to do that with:
+Make sure you have `git`. If you type:
+
+
+    which git
+
+
+and it doies not print anything, then you probably haven't got `git` installed. You may be able to install it with:
 
     conda install git
 
@@ -194,6 +200,20 @@ Next, we need to set up the correct kernel for the notes:
 
     python -m ipykernel install --name=conda-env-geog0133  --display-name 'conda env:geog0133'
 
+Now start Jupyter:
+
+    jupyter notebook
+
+This may open a browser window for you, or might just instruct you to copy and paste a URL, e.g.:
+
+    http://127.0.0.1:8888/?token=4afdc076ec49592ca1059d957f0bccbce86e17ab838f61e0
 
 
+Make sure you have the Jupyter window running in the broweser.
+
+Navigate to `docs/notebooks` and start the notebook `005_Solar_Practical.ipynb` (click on it in the browser).
+
+Now, run the cell `In [1]:` to test that the required codes load correctly.
+
+If there is a problem, go back over the steps above. If you still can't solve the problems, try connecting by a different route, and/or and contact the [course convenor](mailto: p.lewis@ucl.ac.uk?subject=[geog0133 setup problem]), explaining exactly what you did and what the problem was.
 
