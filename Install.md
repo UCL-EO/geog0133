@@ -90,6 +90,11 @@ Select the first of these, `005_Solar_Practical.ipynb` and run the cell `In [1]`
 
 If that works fine (i.e. doen't come up with an  error) then you have set things up correctly. 
 
+If the problem you get is that the notebook kernel cannot be found, try the following:
+
+    conda activate geog0133
+    python -m ipykernel install --name=conda-env-geog0133  --display-name 'conda env:geog0133' --user
+
 If not, try logging out (of all shells and notebooks) again, log in again and re-check.
 If that still doesn't work, open a shell again on JupyterHub, and type:
 
@@ -142,7 +147,7 @@ Use the menu item `File -> Clone Repository` and enter `UCL-EO/geog0133` under t
 
 Any time we update the repository, you just need to click `Fetch origin` to update.
 
-After this poiunt, just follow the same instructions as for using `git` directly at the section `Setting up the environment`.
+After this point, just follow the same instructions as for using `git` directly at the section `Setting up the environment`.
 
 #### Using `git`
 
@@ -152,7 +157,7 @@ Make sure you have `git`. If you type:
     which git
 
 
-and it doies not print anything, then you probably haven't got `git` installed. You may be able to install it with:
+and it does not print anything, then you probably haven't got `git` installed. You may be able to install it with:
 
     conda install git
 
@@ -198,7 +203,7 @@ Now, activate it:
 
 Next, we need to set up the correct kernel for the notes:
 
-    python -m ipykernel install --name=conda-env-geog0133  --display-name 'conda env:geog0133'
+    python -m ipykernel install --name=conda-env-geog0133  --display-name 'conda env:geog0133' --user
     
 Next run the post-build configuration script (sets up itens for Jupyter notebooks):
 
