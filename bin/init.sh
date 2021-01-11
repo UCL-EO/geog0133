@@ -25,8 +25,8 @@ fi
 
 # conda env
 echo "--> setting conda env in ~/.condarc"
-course_name="geog0111"
-conda config --prepend envs_dirs /shared/groups/jrole001/${course_name}/envs
+course_name="geog0133"
+conda config --prepend envs_dirs /shared/groups/jrole001/geog0111/envs
 echo "--> done setting conda env in ~/.condarc"
 
 echo "--> setting active env to ${course_name}"
