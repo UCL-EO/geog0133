@@ -1,6 +1,7 @@
+name: geog0133
 channels:
-  - r
   - conda-forge
+  - defaults
 dependencies:
   - matplotlib
   - python>=3
@@ -11,6 +12,16 @@ dependencies:
   - xlrd
   - numpy
   - pandas
+  - nbsphinx
+  - ipython
+  - pip
+  - scipy
   - pip:
     - nbsphinx
     - sphinx_rtd_theme
+    - astropy
+    - xlrd
+    - pyephem
+    - netCDF4
+    - numpydoc
+    - urlpath
