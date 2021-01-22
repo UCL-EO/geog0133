@@ -4,26 +4,66 @@ channels:
   - defaults
 dependencies:
   - pyephem
+  - tensorflow
   - git
   - python>=3.7
+  - nomkl
+  - libgdal
+  - geopandas
+  - rasterio
   - scipy
+  - gdal
+  - beautifulsoup4
+  - fiona
   - numpy
+  - statsmodels
+  - cartopy
+  - scikit-image
   - netcdf4
+  - scikit-learn
   - matplotlib-base
   - matplotlib
   - pandas
   - ipython
+  - numpydoc
   - astropy
+  - shapely
+  - ipyleaflet
+  - pytest
+  - seaborn
+  - hdf5
+  - flake8
+  - ipywidgets
+  - xarray
+  - black
+  - folium
   - jupyter_console
   - jupyter_contrib_nbextensions
+  - pandocfilters
+  - nbconvert
+  - jupyterlab
+  - pandoc
   - libnetcdf
   - ipykernel
   - ipympl
   - pip
+  - yapf
   - autopep8
+  - geemap
   - jupyter
+  - nbgitpuller
+  - mkdocs
+  - pycodestyle
+  - sphinx
   - fsspec
   - matplotlib
+  - python>=3
+  - sphinx>=1.6
+  - pandoc
+  - xlrd
+  - nbsphinx
   - scipy
   - pip:
+    - sphinx_rtd_theme
+    - netCDF4
     - urlpath
