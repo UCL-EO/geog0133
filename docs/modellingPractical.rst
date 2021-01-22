@@ -1,5 +1,9 @@
 Carbon Modelling Practical
 ===========================
 
-See `GEOG0133 practicals <https://mybinder.org/v2/gh/jgomezdans/geog0133-practicals/master?filepath=03-Photosynthesis_Modelling_Practical.ipynb>`_
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks_lab%2F011_Photosynthesis_Modelling_Practical.ipynb) 
+    
+[![Answers](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks_lab%2F011_Photosynthesis_Modelling_Practical_answers.ipynb) 
+
+
 

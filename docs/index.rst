@@ -41,7 +41,7 @@ Term 2, Academic year 2020-21
 +-----------------+-------------+---------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
 |                 |             | 004 Photosynthesis                    | `ppt <https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-004.pptx>`_                                                     | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/photosynthesis.html>`_                                   |
 +-----------------+-------------+---------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
-| 25 Jan          | 3           | 005 Solar Radiation Practical         | `binder <https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks%2F005_Solar_Practical.ipynb>`_                    | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/notebooks/005_Solar_Practical.html>`_                    |
+| 25 Jan          | 3           | 005 Solar Radiation Practical         | `bdr <https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks_lab%2F005_Solar_Practical.ipynb>`_                   | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/notebooks/005_Solar_Practical.html>`_                    |
 +-----------------+-------------+---------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
 | 1 Feb           | 4           | 006 Terrestrial Ecosystem Modelling   | `ppt <https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-006.pptx>`_                                                     | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/modelling.html>`_                                        |
 +-----------------+-------------+---------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
@@ -55,7 +55,7 @@ Term 2, Academic year 2020-21
 +-----------------+-------------+---------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
 | 15 Feb          | 6           | Reading Week                          |                                                                                                                                      |                                                                                                                           |
 +-----------------+-------------+---------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
-| 22 Feb          | 7           | 011 Photosythesis Practical           | `binder <https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks%2F011_Photosynthesis_Modelling_Practical.ipynb>`_ | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/notebooks/011_Photosynthesis_Modelling_Practical.html>`_ |
+| 22 Feb          | 7           | 011 Photosythesis Practical           | `bdr <https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks_lab%2F011_Photosynthesis_Modelling_Practical.ipynb>`_| `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/notebooks/011_Photosynthesis_Modelling_Practical.html>`_ |
 +-----------------+-------------+---------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
 | 1 Mar           | 8           | 012 Measurement (student-led seminar) |                                                                                                                                      | `notes <https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/remoteSensing.html>`_                                    |
 +-----------------+-------------+---------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
@@ -73,16 +73,18 @@ Contents
    Carbon and Climate<carbonClimate>
    The Terrestrial Carbon Cycle <carbonCycle>
    Photosynthesis <photosynthesis>
-   Practical: Solar Radiation <notebooks/005_Solar_Practical.ipynb>
+   Practical: Solar Radiation <notebooks_lab/005_Solar_Practical.ipynb>
    Terrestrial Ecosystem Modelling<modelling>
    Dynamic Global Vegetation Models<dgvms>
    Production Efficiency Models <pems>
    Phenology <phenology>
    Modelling Photosynthesis <modelling_photosynthesis>
-   Practical: Photosynthesis <notebooks/011_Photosynthesis_Modelling_Practical.ipynb>
+   Practical: Photosynthesis <notebooks_lab/011_Photosynthesis_Modelling_Practical.ipynb>
    Seminar: Measurement (Student-led Seminar) <remoteSensing>
    Data Assimilation Theory <da_basics>
    Data Assimilation Application <da>
+   Practical Answers: Solar Radiation <notebooks_lab/005_Solar_Practical_answers.ipynb>
+   Practical Answers: Photosynthesis <notebooks_lab/011_Photosynthesis_Modelling_Practical_answers.ipynb>
 
 Search
 ==================
