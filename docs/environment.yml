@@ -19,6 +19,7 @@ dependencies:
   - matplotlib
   - python>=3
   - sphinx>=1.6
+  - nbsphinx
   - xlrd
   - scipy
   - pip:
