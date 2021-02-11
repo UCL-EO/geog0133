@@ -20,6 +20,7 @@ dependencies:
   - python>=3
   - sphinx>=1.6
   - nbsphinx
+  - numpydoc
   - xlrd
   - scipy
   - pip:
