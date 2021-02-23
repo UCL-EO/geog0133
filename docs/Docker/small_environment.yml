@@ -4,15 +4,11 @@ channels:
   - defaults
 dependencies:
   - python>=3.7
-  - nbsphinx
-  - matplotlib
-  - ipython
-  - numpy
-  - scipy
   - pip
   - pip:
-#    - jupyter_contrib_nbextensions
-    - urlpath
+    - nbconvert
+    - jupyter-nbconvert
+    - jupyter_contrib_nbextensions
     - mkdocs
     - sphinx
     - mkdocs-jupyter
@@ -24,8 +20,3 @@ dependencies:
     - sphinx-typlog-theme
     - mkdocs-rtd-dropdown
     - mkdocs-material
-    - astropy
-    - xlrd
-    - pyephem
-    - netCDF4
-    - numpydoc

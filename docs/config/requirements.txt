@@ -1,3 +1,6 @@
+nbconvert
+jupyter-nbconvert
+jupyter_contrib_nbextensions
 mkdocs
 sphinx
 mkdocs-jupyter

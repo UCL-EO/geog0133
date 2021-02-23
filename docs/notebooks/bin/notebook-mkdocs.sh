@@ -7,8 +7,8 @@
 
 here=$(pwd)
 base="$(cd $(dirname "$0") &&  cd .. &&  pwd -P && cd "$here")"
-repo=$(echo $base | awk -F/ '{print $NF}')
-
+repo=$(echo $base | awk -F/ '{print $(NF-2)}')
+base="$(cd $base &&  cd .. &&  pwd -P)"
 cd $base
 here=$base
 echo "----> running $0 from $here"
@@ -23,9 +23,10 @@ if [ -z "$HOME" ] ; then
   cd "$base"
 fi
 
-cd "$base"
 
-echo "--> re-making docs"
+# this will be docs/docs
+cd "$base"
+echo "--> re-making docs in $base"
 rm -rf docs
 mkdir -p docs
 mkdir -p docs/images docs/geog0133 docs/data
@@ -35,11 +36,11 @@ cd "$base/notebooks"
 cp images/* "$base/docs/images"
 cp geog0133/* "$base/docs/geog0133"
 cp data/* "$base/docs/data"
-
 cd $base
-echo "--> re-making notebooks_lab"
+echo "--> re-making notebooks_lab in $base"
 rm -rf notebooks_lab
 mkdir -p notebooks_lab
+
 #
 # get the theme from config/mkdocs.yml
 # and update ${base}/config/requirements.txt
@@ -56,7 +57,8 @@ if [ $theme == "readthedocs" ]; then
   grep -v readthedocs <  ${base}/config/requirements.txt > /tmp/tmp.$$
   mv /tmp/tmp.$$ ${base}/config/requirements.txt 
 fi
-
+pip3 uninstall nbconvert -y
+pip install nbconvert -q
 pip3 install -r ${base}/config/requirements.txt --user
 
 # now add these to "${base}"/Docker/small_environment.yml
@@ -78,23 +80,22 @@ awk < ${base}/config/requirements.txt '{print "    - "$0}' >> "${base}"/Docker/s
 #mkdir -p "$base/docs/sphinx"
 cd "$base"
 #sphinx-quickstart -q -p "GEOG0133 Scientific Computing" -a "P. Lewis and J. Gomez-Dans" -v "1.0.1" -l "en" --ext-autodoc --ext-doctest --ext-viewcode --ext-githubpages --ext-intersphinx docs/sphinx
-
 cd $base
 echo "--> re-making notebooks_lab"
 rm -rf site
 rm -rf */*nbconvert*
 rm -rf notebooks_lab/*_files notebooks_lab/*ipynb notebooks_lab/*md
 # filter notebooks from notebooks into notebooks_lab
-geog0133/edit_notebook.py
-
+docs/geog0133/edit_notebook.py
 #bin/link-set.sh
 
 
-echo "--> creating markdown files in notebooks_lab"
+echo "--> creating markdown files in notebooks_lab from $(pwd)"
 # make markdown from the ipynb in notebooks_lab/???_*ipynb
 jupyter nbconvert --ExecutePreprocessor.timeout=600 --ExecutePreprocessor.allow_errors=True \
     --nbformat=4 --ExecutePreprocessor.store_widget_state=True --to markdown notebooks_lab/???_*ipynb
 
+pwd
 echo "--> staging markdown files into docs"
 # mv into docs
 mv notebooks_lab/*_files docs
@@ -117,7 +118,6 @@ do
   sed < $i > /tmp/$$ 's/.ipynb/.md/g'
   mv /tmp/$$ $i
 done
-
 echo "--> adding to docs/index.md"
 
 # get files
@@ -132,9 +132,8 @@ filedirs=$(echo $files | sed 's/docs\///g')
 
 cd "$base"
 echo "--> generating mkdocs files for docs"
-geog0133/mkdocs_prep.py --dev
+docs/geog0133/mkdocs_prep.py --dev
 echo "--> building mkdocs"
-
 
 cd $base/notebooks
 for i in *md ; do

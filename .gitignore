@@ -10,6 +10,8 @@ docs/data/cru*.dat.nc
 docs/site/*
 *.dat.nc
 *_default.png
+docs/docs/*
+
 
 # C extensions
 *.so

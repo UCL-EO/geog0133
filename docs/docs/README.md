@@ -3,7 +3,7 @@ Do not edit the files in here: they are automatically generated from:
 
     python geog0133/edit_notebook.py
 
-The script filters notebooks of the form ???_*.ipynb in notebooks to remove:
+The script filters notebooks of the form ???_*.md in notebooks to remove:
 
 - headers and tailers
 - solution2 answer cells (with `# ANSWER` in code cells)
