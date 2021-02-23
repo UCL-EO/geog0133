@@ -8,6 +8,8 @@ __pycache__/
 docs/data/cru*.dat.nc
 *.icloud
 docs/site/*
+*.dat.nc
+*_default.png
 
 # C extensions
 *.so
