@@ -4,7 +4,7 @@ Staff:
 
 [Professor Philip Lewis](mailto:p.lewis@ucl.ac.uk)
 
-[![Documentation Status](https://readthedocs.com/projects/ucl-eo-geog0133/badge/?version=latest)](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/geog0133/badge/?version=latest)](https://geog0133.readthedocs.io/en/latest/?badge=latest)
 
 ## Timetable Term 2 2021
 
