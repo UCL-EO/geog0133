@@ -31,6 +31,8 @@ Assessment
 Normally, 2 hour unseen exam, 100% of the assessment.
 For 2020-21 Special Covid conditions apply.
 
+Past exam papers are available for the course from the `UCL examn paper repository https://digital-collections.ucl.ac.uk/R/I5KGLEADDASP77RSUY5D675DUTXFV18CHGU6E4NJARSS87D4XF-10952?func=collections&collection_id=1252`_.
+
 Format of the course
 --------------------
 
