@@ -27,5 +27,5 @@ Lectures and practicals are online.
 | 1 Mar | 8  | 012 Measurement (student-led seminar)  | | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/remoteSensing.html)
 | 8 Mar | 9  | 013 Data Assimilation   | [ppt](https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-014.pptx) | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/da_basics.html)
 | |  |   | | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/da.html)
-| 15 Mar| 10  | Discussions / Revision
+| 15 Mar| 10  | Discussions / Revision [Past exam papers](https://digital-collections.ucl.ac.uk/R/I5KGLEADDASP77RSUY5D675DUTXFV18CHGU6E4NJARSS87D4XF-11090?func=collections-result&collection_id=9004)
 
