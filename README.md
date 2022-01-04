@@ -10,6 +10,8 @@ Staff:
 
 Lectures and practicals are in-person.
 
+Note that 2 weeks are designated 'catch up' to allow for space for any covid-related issues.
+
 | Date |  Time | Location |  Course Week | Topic | Presentations  | Notes  |
 |---|---|---|---|---|---|---|
 | 14 Jan | 16:00-18:00 | Gordon St (25) Maths 500 | 1 | 001 Course intro | [ppt](https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-001.pptx) | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/intro.html)
@@ -22,7 +24,7 @@ Lectures and practicals are in-person.
 | |  |   |  008 PEMs | [ppt](https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-008.pptx) | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/pems.html)
 | 11 Feb | 16:00-18:00 | Gordon St (25) Maths 500| 5  | 009 Phenology  | [ppt](https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-009.pptx) | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/phenology.html)
 | | |   |  010 Photosythesis Modelling | [ppt](https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-010.pptx) | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/modelling_photosynthesis.html)
-| 18 Feb  | | 6 | Reading Week| 
+| 18 Feb  | | | 6 | Reading Week| 
 | 25 Feb | 09:00-11:00 | Cruciform Building B1.15A - Public Cluster| 7 |  011 Photosythesis Practical  | [Instructions](https://github.com/UCL-EO/geog0133/blob/main/docs/notebooks/data/CarbonModellingPractical.pdf) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks_lab%2F011_Photosynthesis_Modelling_Practical.ipynb) [![Answers](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks_lab%2F011_Photosynthesis_Modelling_Practical_answers.ipynb)  | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/notebooks/011_Photosynthesis_Modelling_Practical.html) | 
 | 4 Mar  |16:00-18:00 | NW Wing G07 | 8  | 012 Measurement (student-led seminar)  | | [notes](https://ucl-eo-geog0133.readthedocs-hosted.com/en/latest/remoteSensing.html)
 | 11 Mar | 09:00-11:00 | Cruciform Building B1.15A - Public Cluster |  9  | Catch-up
