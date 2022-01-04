@@ -218,7 +218,7 @@ This may open a browser window for you, or might just instruct you to copy and p
     http://127.0.0.1:8888/?token=4afdc076ec49592ca1059d957f0bccbce86e17ab838f61e0
 
 
-Make sure you have the Jupyter window running in the broweser.
+Make sure you have the Jupyter window running in the browser.
 
 Navigate to `docs/notebooks` and start the notebook `005_Solar_Practical.ipynb` (click on it in the browser).
 

@@ -11,7 +11,7 @@ docs/site/*
 *.dat.nc
 *_default.png
 docs/docs/*
-
+docs/ppt/~*
 
 # C extensions
 *.so

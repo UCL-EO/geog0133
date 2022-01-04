@@ -395,7 +395,6 @@ This course cannot cover all aspects of climate science and related biological, 
 
 For further reading, some references are provided. Students are encouraged to fill the gaps in their knowledge in other areas using:
 
-* IPCC Fifth Assessment Report: Climate Change 20xxi1407: `Working Group I: The Physical Science Basis <https://www.ipcc.ch/report/ar5/wg1/>`_ and for a brief overview, the `IPCC synthesis <https://archive.ipcc.ch/report/ar5/syr/>`_.
 * Monteith, J.L. and Unsworth, M., (2007), `Principles of Environmental Physics <http://www.amazon.co.uk/Principles-Environmental-Physics-John-Monteith/dp/0125051034/ref=sr_1_1?ie=UTF8&qid=1325699791&sr=8-1>`_, Academic Press
 * `AIP essay on Simple Models of Climate Change <http://www.aip.org/history/climate/simple.htm>`_
 * Grace, J., (2001) Carbon Cycle, in *Encyclopedia of Biodiversity*, Vol. 1, Academic Press
@@ -404,7 +403,13 @@ For further reading, some references are provided. Students are encouraged to fi
 
 Texts of particular importance to this lecture are:
 
+* IPCC Sixth Assessment Report: `Working Group I: The Physical Science Basis <https://www.ipcc.ch/report/sixth-assessment-report-working-group-i>`_ 
+* `Radiative forcing <https://www.nap.edu/download/11175>`_
+* Friedlingstein et al 2021 `Global Carbon Budget 2021 <https://essd.copernicus.org/preprints/essd-2021-386/>`_
+* Carbonbrief: `AR6 Q&A <https://www.carbonbrief.org/in-depth-qa-the-ipccs-sixth-assessment-report-on-climate-science>`_
+* AR6 `Technical summary <https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_TS.pdf>`_
 * Myhre, G., D. Shindell, F.-M. Bréon, W. Collins, J. Fuglestvedt, J. Huang, D. Koch, J.-F. Lamarque, D. Lee, B. Mendoza, T. Nakajima, A. Robock, G. Stephens, T. Takemura and H. Zhang, 2013: `Anthropogenic and Natural Radiative Forcing <https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter08_FINAL.pdf>`_. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
 * Rockstrom, Johan; Steffen, Will; Noone, Kevin; Persson, Asa; Chapin, F. Stuart; Lambin, Eric F.; et al., TM; Scheffer, M et al. (2009). `"A safe operating space for humanity". Nature 461 (7263): 472-475. doi:10.1038/461472a <http://www.nature.com/nature/journal/v461/n7263/full/461472a.html>`_
 * FAO `Global Forest Resource Assessment 2020  <http://www.fao.org/forest-resources-assessment/2020>`_
 
+You should also explore the `IPCC interactive atlas <https://interactive-atlas.ipcc.ch/>`_
