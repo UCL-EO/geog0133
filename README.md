@@ -10,7 +10,7 @@ Staff:
 
 Lectures and practicals are in-person.
 
-Note that 2 weeks are designated 'catch up' to allow for space for any covid-related issues.
+Note that 1 week iS designated 'catch up' to allow for space for any covid-related issues.
 
 | Date |  Time | Location |  Course Week | Topic | Presentations  | Notes  |
 |---|---|---|---|---|---|---|
