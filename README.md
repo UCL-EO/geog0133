@@ -1,4 +1,4 @@
-# GEOG0133: Terrestrial Carbon: modelling and monitoring
+# GEOG0113: Terrestrial Carbon: modelling and monitoring
 
 Staff:
 
