@@ -93,7 +93,7 @@ If you have got to that point The first time you are using these notes, you shou
 
         cd ~/geog0133/docs && ./postBuild
         
-4. Finally, make sure the kernelk you need for the notebooks exists:
+4. Finally, make sure the kernel you need for the notebooks exists:
     
         python -m ipykernel install --name=conda-env-geog0133  --display-name 'conda env:geog0133' --user
         
@@ -125,7 +125,7 @@ If the problem you get is that the notebook kernel cannot be found, try the foll
 
 If not, try logging out (of all shells and notebooks) again, log in again and re-check.
     
-If you get `ModuleNotFoundError: No module named 'ephem'`, then you have not got the `geog0133` running for some reason.
+If you get `ModuleNotFoundError: No module named 'ephem'`, then you have not got the `geog0133` running for some reason. Log out and in again. Then try the solution above for if the notebook kernel cannot be found. If that test doesn't run, the practical won't run, so make sure to fix that first. Once you have it properly configured, it should work all other times you log in.
 
 If other issues, contact the [course convenor](mailto: p.lewis@ucl.ac.uk?subject=[geog0133 setup problem]), sending them exactly what you typed and the response you get when typing these commands.
 
