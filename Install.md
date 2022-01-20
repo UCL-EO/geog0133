@@ -85,7 +85,7 @@ If you have got to that point The first time you are using these notes, you shou
         geog0133              *  /shared/groups/jrole001/geog0111/envs/geog0133
         
  
-     If that isn't the case, try opening a shell again, and/or stop and restart the notebookj server (see 5. below)
+     If that isn't the case, try opening a shell again, and/or stop and restart the notebook server (see 5. below)
 
 3. Now, set up notebook extensions by running the following in shell (Terminal):
 
