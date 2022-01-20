@@ -62,9 +62,11 @@ If you have got to that point The first time you are using these notes, you shou
 
 1. In the Terminal (shell), type:
 
-        cd ~ && git clone git://github.com/UCL-EO/geog0133
+        cd ~ && git clone https://github.com/UCL-EO/geog0133
     
-   This will clone this repository and set up the Python. 
+   This will clone this repository and set up the Python. If for some reason that doesn't work for you, use:
+    
+        cd ~ && git clone git://github.com/UCL-EO/geog0133
    
 2. Set up anaconda. In the Terminal (shell), type:
 
@@ -114,7 +116,7 @@ Select the first of these, `005_Solar_Practical.ipynb` and run the cell `In [1]`
     from datetime import datetime, timedelta
     # import codes we need into the notebook
 
-If that works fine (i.e. doen't come up with an  error) then you have set things up correctly. 
+If that works fine (i.e. doesn't come up with an  error) then you have set things up correctly. 
 
 If the problem you get is that the notebook kernel cannot be found, try the following:
 
@@ -122,12 +124,10 @@ If the problem you get is that the notebook kernel cannot be found, try the foll
     python -m ipykernel install --name=conda-env-geog0133  --display-name 'conda env:geog0133' --user
 
 If not, try logging out (of all shells and notebooks) again, log in again and re-check.
-If that still doesn't work, open a shell again on JupyterHub, and type:
+    
+If you get `ModuleNotFoundError: No module named 'ephem'`, then you have not got the `geog0133` running for some reason.
 
-    cd ~
-    /shared/groups/jrole001/geog0111/init/init0133.sh
-
-and contact the [course convenor](mailto: p.lewis@ucl.ac.uk?subject=[geog0133 setup problem]), sending them the response you get when running `init0133.sh`. 
+If other issues, contact the [course convenor](mailto: p.lewis@ucl.ac.uk?subject=[geog0133 setup problem]), sending them exactly what you typed and the response you get when typing these commands.
 
 Another way you can access this directory, should you need, is to use `ssh` to log in from a terminal to the UCL system (`ssh username@socrates.ucl.ac.uk`). 
 
