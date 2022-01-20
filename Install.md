@@ -196,9 +196,9 @@ Clone  the repository. First, choose a location where you want to put it, and `c
 
 Clone:
 
-    git clone https://github.com/UCL-EO/geog0133.git
+    git clone git://github.com/UCL-EO/geog0133.git
 
-This will now have set up the directory `geog0111`. If you type:
+This will now have set up the directory `geog0133`. If you type:
 
     ls geog0133
 
@@ -233,7 +233,7 @@ Next, we need to set up the correct kernel for the notes:
     
 Next run the post-build configuration script (sets up itens for Jupyter notebooks):
 
-    bin/postBuild 
+    ./postBuild 
 
 Now start Jupyter:
 
