@@ -58,23 +58,49 @@ Next check to see where you are on the system:
 
 It will show something like `/nfs/.../home3/Uucfa6/ucfalew` and should end with your username. This is you *home* directory. 
 
-If you have got to that point (in your home directory in a shell):
+If you have got to that point The first time you are using these notes, you should go through the items below. These are needed to set up the notes and various course settings.
 
-To install and initialise the course, type:
+1. In the Terminal (shell), type:
 
-    /shared/groups/jrole001/geog0111/init/init0133.sh
+        cd ~ && git clone git://github.com/UCL-EO/geog0133
+    
+   This will clone this repository and set up the Python. 
+   
+2. Set up anaconda. In the Terminal (shell), type:
 
-This will clone this repository and set up all files and links you need. Note that you only need to do this the one time. 
+        conda init
+        conda config --prepend envs_dirs /shared/groups/jrole001/geog0111/envs
+        echo "conda activate geog0133" >> ~/.bashrc
+        
+    Then, open a new shell (or type `bash`) and type:
+    
+        conda env list
+        
+    This should now show:
+    
+        # conda environments:
+        #
+        base                     /opt/miniconda-jhub/4.8.3
+        jhubcode                 /opt/miniconda-jhub/4.8.3/envs/jhubcode
+        geog0133              *  /shared/groups/jrole001/geog0111/envs/geog0133
+        
+If it doesn't, type:
 
-This will take a few minutes to run. If it runs sucessfully, it should tell you to close all shells and logout for the changes to take effect.
+         bash
+         
+and try again.        
 
-You can close the shell by typing 
+3. Now, set up notebook extensions by running the foillowing in shell (Terminal):
 
-    exit
+        ~/geog0133/notebooks/bin/postBuild
+        
+        
+4. This should all be good to go now, but you should make sure that the new settings have taken place by stopping are restarting the notebook server. To do this:
 
-or got to `Control Panel -> My Server`, select the `Running` tab, and shut down and terminals (or notebooks) from there.
-
-Then logout (`Logout` button), and sign in again.
+   * click on the `Control Panel` button at the top right of the notebook page. 
+   * then click the big red button to stop the server
+   * next, click `start my server` to restart (you may have to also then click `launch my server`)
+   * if you are asked to choose an interface, choose `classic`, then click `start`
 
 You should now see the link `geog0133` in the JupyterHub browser. Select that link to enter the course materials, then go to `docs/notebooks` to see the practical notebooks.
 
