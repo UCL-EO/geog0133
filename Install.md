@@ -72,7 +72,7 @@ If you have got to that point The first time you are using these notes, you shou
         conda config --prepend envs_dirs /shared/groups/jrole001/geog0111/envs
         echo "conda activate geog0133" >> ~/.bashrc
         
-    Then, open a new shell (or type `bash`) and type:
+    Then, type `bash` and in the new shell you enter, type:
     
         conda env list
         
@@ -84,15 +84,10 @@ If you have got to that point The first time you are using these notes, you shou
         jhubcode                 /opt/miniconda-jhub/4.8.3/envs/jhubcode
         geog0133              *  /shared/groups/jrole001/geog0111/envs/geog0133
         
-If it doesn't, type:
-
-         bash
-         
-and try again.        
 
 3. Now, set up notebook extensions by running the foillowing in shell (Terminal):
 
-        ~/geog0133/notebooks/bin/postBuild
+        cd ~/geog0133/docs && ./postBuild
         
         
 4. This should all be good to go now, but you should make sure that the new settings have taken place by stopping are restarting the notebook server. To do this:
