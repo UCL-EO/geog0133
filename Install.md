@@ -84,13 +84,18 @@ If you have got to that point The first time you are using these notes, you shou
         jhubcode                 /opt/miniconda-jhub/4.8.3/envs/jhubcode
         geog0133              *  /shared/groups/jrole001/geog0111/envs/geog0133
         
+ 
+     If that isn't the case, try opening a shell again, and/or stop and restart the notebookj server (see 5. below)
 
-3. Now, set up notebook extensions by running the foillowing in shell (Terminal):
+3. Now, set up notebook extensions by running the following in shell (Terminal):
 
         cd ~/geog0133/docs && ./postBuild
         
+4. Finally, make sure the kernelk you need for the notebooks exists:
+    
+        python -m ipykernel install --name=conda-env-geog0133  --display-name 'conda env:geog0133' --user
         
-4. This should all be good to go now, but you should make sure that the new settings have taken place by stopping are restarting the notebook server. To do this:
+5. This should all be good to go now, but you should make sure that the new settings have taken place by stopping are restarting the notebook server. To do this:
 
    * click on the `Control Panel` button at the top right of the notebook page. 
    * then click the big red button to stop the server
