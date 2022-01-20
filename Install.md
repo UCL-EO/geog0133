@@ -1,6 +1,6 @@
 # Python setup
 
-You need to use Python for several of the practicals. You ve verious options for this.
+You need to use Python for several of the practicals. You've verious options for this.
 
 1. Use the UCL JupyterHub
 2. Use Python on your own computer
