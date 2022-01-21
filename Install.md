@@ -62,12 +62,10 @@ If you have got to that point The first time you are using these notes, you shou
 
 1. In the Terminal (shell), type:
 
-        cd ~ && git clone https://github.com/UCL-EO/geog0133
-    
-   This will clone this repository and set up the Python. If for some reason that doesn't work for you, use:
-    
         cd ~ && git clone git://github.com/UCL-EO/geog0133
-   
+    
+   This will clone this repository and set up the Python. 
+    
 2. Set up anaconda. In the Terminal (shell), type:
 
         conda init
