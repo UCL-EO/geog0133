@@ -123,8 +123,14 @@ If that works fine (i.e. doesn't come up with an  error) then you have set thing
 
 If the problem you get is that the notebook kernel cannot be found, try the following:
 
+    bash
+    
+to open a new shell, then:
+    
     conda activate geog0133
     python -m ipykernel install --name=conda-env-geog0133  --display-name 'conda env:geog0133' --user
+    
+and test the page again.
 
 If not, try logging out (of all shells and notebooks) again, log in again and re-check.
     
