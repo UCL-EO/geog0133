@@ -72,7 +72,11 @@ If you have got to that point The first time you are using these notes, you shou
         conda config --prepend envs_dirs /shared/groups/jrole001/geog0111/envs
         echo "conda activate geog0133" >> ~/.bashrc
         
-    Then, type `bash` and in the new shell you enter, type:
+    Then, type:
+    
+        bash
+    
+    which will start a new shell which should have the new environment set. To test that, type:
     
         conda env list
         
@@ -85,12 +89,13 @@ If you have got to that point The first time you are using these notes, you shou
         geog0133              *  /shared/groups/jrole001/geog0111/envs/geog0133
         
  
-     If that isn't the case, try opening a shell again, and/or stop and restart the notebook server (see 5. below)
+     If that isn't the case, try opening a new shell again (`bash`), and/or stop and restart the notebook server (see 5. below)
 
 3. Now, set up notebook extensions by running the following in shell (Terminal):
 
         cd ~/geog0133/docs && ./postBuild
         
+   That runs the scrip `postBuild` in the directory `~/geog0133/docs`.
 4. Finally, make sure the kernel you need for the notebooks exists:
     
         python -m ipykernel install --name=conda-env-geog0133  --display-name 'conda env:geog0133' --user
@@ -146,6 +151,13 @@ However, it it is not so hard to set things up and to run  it for yourself.
 
 Whilst you *can* probably use any version of Python, we suggest you install [`Anaconda Python`](https://docs.anaconda.com/anaconda/install/). If you are very short on computer space, you might prefer the cut-down version [`Miniconda`](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/macos.html).
 
+### make it faster if you want
+
+The command that installs packages (libraries of software) for `Anaconda Python` is called `conda`. You will see various calls to this in the instructions below. There is a *faster* alternative to this, called [`mamba`](https://github.com/mamba-org/mamba). If you want to use this, after you have set up Python, type:
+    
+    conda install mamba -n base -c conda-forge
+    
+Then, everywhere below in the text where it says `conda`, you can use `mamba` and it will work a lot faster. 
 
 ### Clone the repository
 
