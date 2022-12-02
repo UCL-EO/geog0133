@@ -2,15 +2,15 @@
 
 Staff:
 
-[Professor Philip Lewis](mailto:p.lewis@ucl.ac.uk)
+[Dr Harry Heorton](mailto:h.heorton@ucl.ac.uk)
 
 [![Documentation Status](https://readthedocs.org/projects/geog0133/badge/?version=latest)](https://geog0133.readthedocs.io/en/latest/?badge=latest)
 
-## Timetable Term 2 2021-22
+## Timetable Term 2 2022-23
 
 Lectures and practicals are in-person.
 
-Note that 1 week iS designated 'catch up' to allow for space for any covid-related issues.
+Note that 1 week iS designated 'catch up' to allow for student requests for deeper content analysis and coursework FAQs.
 
 | Date |  Time | Location |  Course Week | Topic | Presentations  | Notes  |
 |---|---|---|---|---|---|---|
