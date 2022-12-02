@@ -16,12 +16,6 @@ nav:
 - Introduction: index.md
 - Solar Radiation:
   - Solar Practical: 005_Solar_Practical.md
-  - Answers:
-    - Solar Practical: 005_Solar_Practical_answers.md
-- Photostnthesis Modelling:
-  - Photosynthesis Modelling Practical: 011_Photosynthesis_Modelling_Practical.md
-  - Answers:
-    - Photosynthesis Modelling Practical: 011_Photosynthesis_Modelling_Practical_answers.md
 plugins:
 - git-revision-date-localized
 - exclude:
