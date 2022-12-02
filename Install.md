@@ -234,6 +234,10 @@ Assuming you have cloned the repository though, now open a shell (Terminal) and 
 replacing `~/Documents/GitHub/geog0133` with the location of your repository.
 
 Then, set up the environment with:
+    
+    mamba env create  --force -n geog0133 -f environment.yml
+    
+or
 
     conda env create  --force -n geog0133 -f environment.yml
 
