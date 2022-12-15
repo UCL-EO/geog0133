@@ -1,14 +1,22 @@
-name: geog0133
+name: geog0111
 channels:
   - conda-forge
   - defaults
 dependencies:
   - python>=3.7
-  - sphinx>=1.6
-  - nbsphinx
-  - numpydoc
-  - matplotlib
   - pip
   - pip:
     - nbconvert
-    - sphinx_rtd_theme
+    - jupyter-nbconvert
+    - jupyter_contrib_nbextensions
+    - mkdocs
+    - sphinx
+    - mkdocs-jupyter
+    - mknotebooks
+    - mkdocs-exclude
+    - mkdocs-git-revision-date-localized-plugin
+    - recommonmark
+    - sphinx-markdown-tables
+    - sphinx-typlog-theme
+    - mkdocs-rtd-dropdown
+    - mkdocs-material

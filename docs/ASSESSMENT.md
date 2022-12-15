@@ -1,12 +1,12 @@
 Assessment
 ==========
 
-Write an extended essay with the title: “How well do we know global Net Primary Production?”
+Write an extended essay with the title: “Explain the patterns of and controls on the spatial and temporal characteristics of terrestrial carbon fluxes and stocks in recent decades”
 
 Length and core requirements
 ----------------------------
 
-Your essay should be 3000 words or less (not including figure captions and references).
+Your essay should be 3500 words or less (not including figure captions and references).
 
 It should directly address the essay title and synthesise materials from reading around the subject of terrestrial carbon dynamics: modelling and monitoring, and well as course practicals and seminar materials.
 

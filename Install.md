@@ -229,15 +229,11 @@ You should see:
 
 Assuming you have cloned the repository though, now open a shell (Terminal) and type:
 
-    cd ~/Documents/GitHub/geog0133/docs
+    cd ~plewis/Documents/GitHub/geog0133/docs
 
-replacing `~/Documents/GitHub/geog0133` with the location of your repository.
+replacing `~plewis/Documents/GitHub/geog0133` with the location of your repository.
 
 Then, set up the environment with:
-    
-    mamba env create  --force -n geog0133 -f environment.yml
-    
-or
 
     conda env create  --force -n geog0133 -f environment.yml
 

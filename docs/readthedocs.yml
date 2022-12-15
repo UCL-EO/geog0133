@@ -1,2 +1,2 @@
 conda:
-  file: Docker/small_environment.yml
+  file: environment.yml

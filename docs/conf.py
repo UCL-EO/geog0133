@@ -21,7 +21,7 @@ sys.path.append(os.path.abspath('python'))
 # -- Project information -----------------------------------------------------
 
 project = 'GEOG0133'
-copyright = '2022, P Lewis'
+copyright = '2021, P Lewis'
 author = 'P Lewis'
 
 # The short X.Y version
