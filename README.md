@@ -10,7 +10,7 @@ Staff:
 
 Lectures and practicals are in-person.
 
-Note that 1 week iS designated 'catch up' to allow for student requests for deeper content analysis and coursework FAQs.
+Note that 1 week is designated 'catch up' to allow for student requests for deeper content analysis and coursework FAQs.
 
 | Date |  Time | Location |  Course Week | Topic | Presentations  | Notes  |
 |---|---|---|---|---|---|---|
