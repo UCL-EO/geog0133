@@ -28,13 +28,19 @@ The module will cover:
 Assessment
 ----------
 
-**"Describe the key spatial and temporal patterns of terrestrial carbon stocks and fluxes in recent decades (post 2000). Your answer should explain the processes that control these patterns and the uncertainties in our knowledge of these processes."**
+**"How well do we know global Net Primary Production?"**
+
+Your answer should explain the processes that control these patterns and the uncertainties in our knowledge of these processes.
+
 
 **Length and core requirements**
 
-Your essay should be 3500 words or less (not including figure captions and references).
+ 
 
-It should directly address the essay title and synthesise materials from reading around the subject of terrestrial carbon dynamics: modelling and monitoring, and well as course practicals and seminar materials.
+Your essay should be 3000 words or less (not including figure captions and references).
+
+
+It should directly address the essay title and synthesise materials from reading around the subject of terrestrial carbon dynamics: modelling and monitoring, as well as course practicals and seminar materials.
 
 It should demonstrate an understanding of core underlying theories, models and appropriate measurement methods and be able to express them simply and clearly.
 
