@@ -12,8 +12,7 @@ GEOG0133 Terrestrial Carbon: modelling and monitoring
 Course Convenor 
 ----------------
 
-`Dr Harry Heorton`_
-.. _Dr Harry Heorton: mailto:h.heorton@ucl.ac.uk:
+`Dr Harry Heorton <mailto:h.heorton@ucl.ac.uk>`_
 
 
 
