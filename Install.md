@@ -62,22 +62,16 @@ If you have got to that point The first time you are using these notes, you shou
 
 1. In the Terminal (shell), type:
 
-        cd ~ && git clone git://github.com/UCL-EO/geog0133
+        wget https://github.com/UCL-EO/geog0133/archive/refs/heads/main.zip
     
-   This will clone this repository and set up the Python. 
+   This will download this repository as a zip file. Extract using:
+        
+        cd ~ && unzip main.zip
     
 2. Set up anaconda. In the Terminal (shell), type:
 
         conda init
-        conda config --prepend envs_dirs /shared/groups/jrole001/geog0111/envs
-        echo "conda activate geog0133" >> ~/.bashrc
-        
-    Then, type:
-    
-        bash
-    
-    which will start a new shell which should have the new environment set. To test that, type:
-    
+        conda config --prepend envs_dirs /shared/groups/jrole001/geog0027/envs
         conda env list
         
     This should now show:
@@ -86,19 +80,19 @@ If you have got to that point The first time you are using these notes, you shou
         #
         base                     /opt/miniconda-jhub/4.8.3
         jhubcode                 /opt/miniconda-jhub/4.8.3/envs/jhubcode
-        geog0133              *  /shared/groups/jrole001/geog0111/envs/geog0133
+        geog0113              *  /shared/groups/jrole001/geog0027/envs/geog0113
         
  
      If that isn't the case, try opening a new shell again (`bash`), and/or stop and restart the notebook server (see 5. below)
 
 3. Now, set up notebook extensions by running the following in shell (Terminal):
 
-        cd ~/geog0133/docs && ./postBuild
+        cd ~/geog0133-main/docs && ./postBuild
         
-   That runs the scrip `postBuild` in the directory `~/geog0133/docs`.
+   That runs the scrip `postBuild` in the directory `~/geog0133-main/docs`.
 4. Finally, make sure the kernel you need for the notebooks exists:
     
-        python -m ipykernel install --name=conda-env-geog0133  --display-name 'conda env:geog0133' --user
+        python -m ipykernel install --name=conda-env-geog0113  --display-name 'conda env:geog0113' --user
         
 5. This should all be good to go now, but you should make sure that the new settings have taken place by stopping are restarting the notebook server. To do this:
 
@@ -107,7 +101,7 @@ If you have got to that point The first time you are using these notes, you shou
    * next, click `start my server` to restart (you may have to also then click `launch my server`)
    * if you are asked to choose an interface, choose `classic`, then click `start`
 
-You should now see the link `geog0133` in the JupyterHub browser. Select that link to enter the course materials, then go to `docs/notebooks` to see the practical notebooks.
+You should now see the link `geog0113-main` in the JupyterHub browser. Select that link to enter the course materials, then go to `docs/notebooks` to see the practical notebooks.
 
 Select the first of these, `005_Solar_Practical.ipynb` and run the cell `In [1]`:
 
@@ -127,8 +121,8 @@ If the problem you get is that the notebook kernel cannot be found, try the foll
     
 to open a new shell, then:
     
-    conda activate geog0133
-    python -m ipykernel install --name=conda-env-geog0133  --display-name 'conda env:geog0133' --user
+    source activate geog0113
+    python -m ipykernel install --name=geog0113  --display-name 'conda env:geog0113' --user
     
 and test the page again.
 
@@ -179,44 +173,19 @@ You can do this in several ways:
 
 We do not support this here, but you will find various online notes if you want to follow thbis path.
 
-#### Using `GitHub Desktop`
+#### Getting the code:
 
-If you are using MacOS or Windows, you can use the tool [`GitHub Desktop`](https://desktop.github.com) to manage your github repositories. 
+Download from github. In a temrminal, in a sensible location run:
 
-Download and install the tool. Then run it.
+    wget https://github.com/UCL-EO/geog0133/archive/refs/heads/main.zip
+    
+This will download this repository as a zip file. Extract using:
+        
+    unzip main.zip
 
-Use the menu item `File -> Clone Repository` and enter `UCL-EO/geog0133` under the `GitHub.com` tab. So long as you haven't done this before, you should be able to hit the `Clone` buytton for the cloning to take place. Take note of where the repoisitory will be placed on your comnputer, e.g. `/Users/plewis/Documents/GitHub/geog0133`.
+This will now have set up the directory `geog0133-main`. If you type:
 
-Any time we update the repository, you just need to click `Fetch origin` to update.
-
-After this point, just follow the same instructions as for using `git` directly at the section `Setting up the environment`.
-
-#### Using `git`
-
-Make sure you have `git`. If you type:
-
-
-    which git
-
-
-and it does not print anything, then you probably haven't got `git` installed. You may be able to install it with:
-
-    conda install git
-
-or alternatively, search on the web for an installation of `git` for your operating system.
-
-Clone  the repository. First, choose a location where you want to put it, and `cd` there:
-
-    mkdir -p ~/Documents/GitHub
-    cd ~/Documents/GitHub
-
-Clone:
-
-    git clone git://github.com/UCL-EO/geog0133.git
-
-This will now have set up the directory `geog0133`. If you type:
-
-    ls geog0133
+    ls geog0133-main
 
 You should see:
 
@@ -227,7 +196,7 @@ You should see:
 
 ##### Setting up the environment
 
-Assuming you have cloned the repository though, now open a shell (Terminal) and type:
+Assuming you have downloaded the repository though, now open a shell (Terminal) and type:
 
     cd ~plewis/Documents/GitHub/geog0133/docs
 
@@ -235,17 +204,17 @@ replacing `~plewis/Documents/GitHub/geog0133` with the location of your reposito
 
 Then, set up the environment with:
 
-    conda env create  --force -n geog0133 -f environment.yml
+    conda env create  --force -n geog0113 -f environment.yml
 
-This will take a few minutes, but will create the environment `geog0133` which contains all of the libaries you need for this course.
+This will take a few minutes, but will create the environment `geog0113` which contains all of the libaries you need for this course.
 
 Now, activate it:
 
-    conda activate geog0133
+    conda activate geog0113
 
 Next, we need to set up the correct kernel for the notes:
 
-    python -m ipykernel install --name=conda-env-geog0133  --display-name 'conda env:geog0133' --user
+    python -m ipykernel install --name=conda-env-geog0113  --display-name 'conda env:geog0113' --user
     
 Next run the post-build configuration script (sets up itens for Jupyter notebooks):
 

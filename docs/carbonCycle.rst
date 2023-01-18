@@ -347,9 +347,9 @@ Globally then, the most productive biomes are tropical forests, savannah and gra
 ------------
 
 
-.. figure:: http://eoimages.gsfc.nasa.gov/images/globalmaps/data/TRMM_3B43M/TRMM_3B43M_2006-07.JPEG
+.. figure:: https://eoimages.gsfc.nasa.gov/images/globalmaps/data/GPM_3IMERGM/GPM_3IMERGM_2006-07.JPEG
     :align: center
-    :target: http://earthobservatory.nasa.gov/GlobalMaps/view.php?d1=TRMM_3B43M
+    :target: http://earthobservatory.nasa.gov/GlobalMaps/view.php?d1=GPM_3IMERGM
     :width: 90%
 
 
@@ -367,7 +367,7 @@ Globally then, the most productive biomes are tropical forests, savannah and gra
 
 The figures above show global NPP distribution and related climatic and land surface properties for Northern hemisphere summer. The dataset 'NPP' broadly relates the abundance of vegetation, which relates to the total capacity of vegetation to photosynthesise. The primary driver of GPP (so NPP in broad terms) is the amount of vegetation and the amount of downwelling solar radiation. Although we do not have an image of the latter here, it is broadly in-line with the net radiation shown. There are of course many more subtle controls on NPP that we will consider later, but clearly these would include temperature range and water availability.
 
-In Northern hemisphere summer then, NPP is most stongly spatially weighted  to the Northern hemisphere because of these various drivers.
+In Northern hemisphere summer then, NPP is most strongly spatially weighted  to the Northern hemisphere because of these various drivers.
 
 .. figure:: http://eoimages.gsfc.nasa.gov/images/globalmaps/data/MOD17A2_M_PSN/MOD17A2_M_PSN_2006-12.JPEG
     :align: center
@@ -384,10 +384,11 @@ In Northern hemisphere summer then, NPP is most stongly spatially weighted  to t
 ------------
 
 
-.. figure:: http://eoimages.gsfc.nasa.gov/images/globalmaps/data/TRMM_3B43M/TRMM_3B43M_2006-12.JPEG
-    :align: center
-    :target: http://earthobservatory.nasa.gov/GlobalMaps/view.php?d1=TRMM_3B43M
 
+.. figure:: https://eoimages.gsfc.nasa.gov/images/globalmaps/data/GPM_3IMERGM/GPM_3IMERGM_2006-12.JPEG
+    :align: center
+    :target: http://earthobservatory.nasa.gov/GlobalMaps/view.php?d1=GPM_3IMERGM
+    :width: 90%
 .. raw:: html
 
     <center>
@@ -485,3 +486,5 @@ Texts of particular importance to this lecture are:
 * DeLucia et al. (2007) Forest carbon use efficiency: is respiration a constant fraction of gross primary production? Global Change Biology (2007) 13, 1157–1167, `doi: 10.1111/j.1365-2486.2007.01365.x <http://www.life.illinois.edu/delucia/GCB_1365.pdf>`_
 * Lovett, G.M. et al., (2006) Is Net Ecosystem Production Equal to Ecosystem Carbon Accumulation? Ecosystems (2006) 9: 1–4 `DOI: 10.1007/s10021-005-0036-3 <https://www.caryinstitute.org/sites/default/files/public/reprints/Lovett_et_al_2006_Ecosystems.pdf>`_
 * `Gough, C. M. (2011) Terrestrial Primary Production: Fuel for Life. Nature Education Knowledge 2(2):1 <http://www.nature.com/scitable/knowledge/library/terrestrial-primary-production-fuel-for-life-17567411>`_
+* `Haberl, H. et al. Quantifying and mapping the human appropriation of net primary production in earth’s terrestrial ecosystems. Proceedings of the National Academy of Sciences 104, 12942–12947 (2007).<https://www.pnas.org/doi/10.1073/pnas.0704243104>`_
+
