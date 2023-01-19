@@ -55,7 +55,7 @@ Stomatal conductance, (e.g. in mmol m-2 s-2) is a measure of the rate of passage
 * cooling (loss of heat energy through transpiration)
 * maintenance of turgor pressure in plant cells for plant structure and the functioning of guard cells in the stomata to regulate  water loss and CO2 uptake.
 
-.. figure:: https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/wss-cycle-evapotranspiration-diagram.jpg
+.. figure:: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/wss-cycle-evapotranspiration-diagram.jpg
     :align: center
     :target:  https://www.usgs.gov/special-topic/water-science-school/science/evapotranspiration-and-water-cycle?qt-science_center_objects=0#qt-science_center_objects
 
@@ -321,7 +321,7 @@ This course cannot cover all aspects of climate science and related biological, 
 
 For further reading, some references are provided. Students are encouraged to fill the gaps in their knowledge in other areas using:
 
-* IPCC Fifth Assessment Report: Climate Change 20xxi1407: `Working Group I: The Physical Science Basis <https://www.ipcc.ch/report/ar5/wg1/>`_ and for a brief overview, the `IPCC synthesis <uhttps://archive.ipcc.ch/report/ar5/syr/>`_.
+* IPCC Fifth Assessment Report: Climate Change 20xxi1407: `Working Group I: The Physical Science Basis <https://www.ipcc.ch/report/ar5/wg1/>`_ and for a brief overview, the `IPCC synthesis <https://archive.ipcc.ch/report/ar5/syr/>`_.
 * Monteith, J.L. and Unsworth, M., (2007), `Principles of Environmental Physics <http://www.amazon.co.uk/Principles-Environmental-Physics-John-Monteith/dp/0125051034/ref=sr_1_1?ie=UTF8&qid=1325699791&sr=8-1>`_, Academic Press
 * Allen, R.G et al., 1998, `Crop evapotranspiration - Guidelines for computing crop water requirements - FAO Irrigation and drainage paper 56 <http://www.fao.org/docrep/X0490E/X0490E00.htm>`_ for a good practical guide to Agrometeorology, and a wider range of agricultural (and societal) documents in the `FAO Corporate Document Repository <http://www.fao.org/documents/en/docrep.jsp>`_.
 * `AIP essay on Simple Models of Climate Change <http://www.aip.org/history/climate/simple.htm>`_
@@ -331,7 +331,7 @@ For further reading, some references are provided. Students are encouraged to fi
 * `Stevens, A. N. (2011) Factors Affecting Global Climate. Nature Education Knowledge 2(1):5 <http://www.nature.com/scitable/knowledge/library/factors-affecting-global-climate-17079163>`_
 * `Gough, C. M. (2011) Terrestrial Primary Production: Fuel for Life. Nature Education Knowledge 2(2):1 <http://www.nature.com/scitable/knowledge/library/terrestrial-primary-production-fuel-for-life-17567411>`_
 * Lawlor, D.W. (2002) Limitation to Photosynthesis in Water-stressed Leaves: Stomata vs. Metabolism and the Role of ATP, Ann Bot (2002) 89 (7): 871-885. `doi: 10.1093/aob/mcf110 <http://aob.oxfordjournals.org/content/89/7/871.full>`_
-
+*`The evolution of C4 photosynthesis, Rowan F. Sage (2003) <https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2004.00974.x>`_
 
 Texts of particular importance to this lecture are:
 
