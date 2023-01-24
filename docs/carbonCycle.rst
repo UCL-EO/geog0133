@@ -486,5 +486,5 @@ Texts of particular importance to this lecture are:
 * DeLucia et al. (2007) Forest carbon use efficiency: is respiration a constant fraction of gross primary production? Global Change Biology (2007) 13, 1157–1167, `doi: 10.1111/j.1365-2486.2007.01365.x <http://www.life.illinois.edu/delucia/GCB_1365.pdf>`_
 * Lovett, G.M. et al., (2006) Is Net Ecosystem Production Equal to Ecosystem Carbon Accumulation? Ecosystems (2006) 9: 1–4 `DOI: 10.1007/s10021-005-0036-3 <https://www.caryinstitute.org/sites/default/files/public/reprints/Lovett_et_al_2006_Ecosystems.pdf>`_
 * `Gough, C. M. (2011) Terrestrial Primary Production: Fuel for Life. Nature Education Knowledge 2(2):1 <http://www.nature.com/scitable/knowledge/library/terrestrial-primary-production-fuel-for-life-17567411>`_
-* `Haberl, H. et al. Quantifying and mapping the human appropriation of net primary production in earth’s terrestrial ecosystems. Proceedings of the National Academy of Sciences 104, 12942–12947 (2007).<https://www.pnas.org/doi/10.1073/pnas.0704243104>`_
+* `Haberl, H. et al. Quantifying and mapping the human appropriation of net primary production in earth’s terrestrial ecosystems. Proceedings of the National Academy of Sciences 104, 12942–12947 (2007). <https://www.pnas.org/doi/10.1073/pnas.0704243104>`_
 

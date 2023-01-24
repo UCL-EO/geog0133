@@ -331,7 +331,7 @@ For further reading, some references are provided. Students are encouraged to fi
 * `Stevens, A. N. (2011) Factors Affecting Global Climate. Nature Education Knowledge 2(1):5 <http://www.nature.com/scitable/knowledge/library/factors-affecting-global-climate-17079163>`_
 * `Gough, C. M. (2011) Terrestrial Primary Production: Fuel for Life. Nature Education Knowledge 2(2):1 <http://www.nature.com/scitable/knowledge/library/terrestrial-primary-production-fuel-for-life-17567411>`_
 * Lawlor, D.W. (2002) Limitation to Photosynthesis in Water-stressed Leaves: Stomata vs. Metabolism and the Role of ATP, Ann Bot (2002) 89 (7): 871-885. `doi: 10.1093/aob/mcf110 <http://aob.oxfordjournals.org/content/89/7/871.full>`_
-*`The evolution of C4 photosynthesis, Rowan F. Sage (2003) <https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2004.00974.x>`_
+* `The evolution of C4 photosynthesis, Rowan F. Sage (2003) <https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2004.00974.x>`_
 
 Texts of particular importance to this lecture are:
 
