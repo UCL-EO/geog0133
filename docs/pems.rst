@@ -101,9 +101,12 @@ Several key issues in the use of such models are highlighted, but these models s
 
 Since these models are driven by observations, they cannot directly be used in prognostic mode.
 
+If you're interested in the Solar Induced Flourescence discussed in the lectures, read more `here <https://appliedsciences.nasa.gov/our-impact/news/solar-induced-fluorescence-learn-new-approach-remote-sensing-vegetation>`_
+
 
 References
 -----------
 * **McCallum, I.,** et al., 2009, Satellite-based terrestrial production efficiency modeling, `Carbon Balance and managementi, 4:8 doi:10.1186/1750-0680-4-8 <http://www.cbmjournal.com/content/pdf/1750-0680-4-8.pdf>`_
 * Monteith JL: Solar radiation and productivity in tropical ecosystems.  J Appl Ecol 1972, 9:747-766.
 * Monteith JL: Climate and the efficiency of crop production in Britain.  Philos Trans R Soc London, Ser B 1977, 281:277-294.
+* Li, X.; Xiao, J. Mapping Photosynthesis Solely from Solar-Induced Chlorophyll Fluorescence: A Global, Fine-Resolution Dataset of Gross Primary Production Derived from OCO-2. Remote Sens. 2019, 11, 2563. `https://doi.org/10.3390/rs11212563 <https://doi.org/10.3390/rs11212563>`_
