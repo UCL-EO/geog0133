@@ -33,6 +33,30 @@ def get_value(f,var,m,ilon,ilat):
 
     return np.sum(data * w)/np.sum(w)
 
+def getCRU_lonlat():
+    ofile = f'cru_ts4.04.2011.2019.tmx.dat.nc.gz'
+    
+    # check if the file exists, else pull it
+    if not Path(f"data/{ofile}").exists():
+        r = requests.get(url, stream=True)
+        if r.status_code == 200:
+            with open(f"data/{ofile}", 'wb') as f:
+                for chunk in r:
+                    f.write(chunk)
+
+    ofilef = Path(f"data/{ofile}".replace('.dat.nc.gz','.dat.nc'))
+    if not ofilef.exists():
+        with gzip.open(f"data/{ofile}", 'rb') as f:
+            file_content = f.read()
+            ofilef.write_bytes(file_content)
+
+    # read dataset
+    tmx = Dataset(ofilef.as_posix(),'r')
+    lons = tmx.variables['lon'][:]
+    lats = tmx.variables['lat'][:]
+    tmx.close()
+    return lons,lats
+    
 def getCRU(year=2019,month=[0,1,2,3,4,5,6,7,8,9,10,11],longitude=0,latitude=51):
     
     month = list(month)
@@ -64,17 +88,24 @@ def getCRU(year=2019,month=[0,1,2,3,4,5,6,7,8,9,10,11],longitude=0,latitude=51):
             
         # read dataset
         tmx = Dataset(ofilef.as_posix(),'r')
-        ilon = np.argmin(np.abs(tmx.variables['lon'][:] - longitude))
-        ilat = np.argmin(np.abs(tmx.variables['lat'][:] - latitude))
+        if longitude == 'all':
+            ilon = slice(None)
+        else:
+            ilon = np.argmin(np.abs(tmx.variables['lon'][:] - longitude))
+        if latitude == 'all':
+            ilat = slice(None)
+        else:
+            ilat = np.argmin(np.abs(tmx.variables['lat'][:] - latitude))
         dataset[var] = []
         # loop over month
         for m in month:
             itime = m + _year*12
             this = tmx[var][itime,ilat,ilon]
-            if np.ma.is_masked(this):
+            if np.ma.is_masked(this) and type(longitude) != str and type(latitude) != str:
                 this = get_value(tmx,var,m,ilon,ilat)
             dataset[var].append(this)
         dataset[var] = np.ma.array(dataset[var])
+        tmx.close()
     return dataset
 
 import scipy.ndimage.filters

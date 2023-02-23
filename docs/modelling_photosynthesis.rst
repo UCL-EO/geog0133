@@ -167,7 +167,7 @@ There are several hypotheses about how leaf stomatal  conductance scales to an e
 
 where :math:f_{PAR}` is the fraction of incident 'PAR' radiation (shortwave radiation used in photosynthesis) absorbed by the canopy, L is the LAI and k is a geometric term representing leaf projection (and also clumping) -- an extinction coefficient for the canopy (typically set to 0.5). 
 
-The rationale for this is that incident PAR decreases over the vertical extent of the canopy so stomatal conductance might be considered  to also decrease as it is linked to assimilation rates which will decrease in this way. 
+The rationale for this is that incident PAR decreases over the vertical extent of the canopy so stomatal conductance might be considered to also decrease as it is linked to assimilation rates which will decrease in this way. 
 
 
 Summary
