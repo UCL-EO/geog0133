@@ -65,8 +65,11 @@ def getCRU(year=2019,month=[0,1,2,3,4,5,6,7,8,9,10,11],longitude=0,latitude=51):
         if (year >= 2011 and year <= 2019):
             ofile = f'cru_ts4.04.2011.2019.{var}.dat.nc.gz'
             _year = year-2011
+        elif (year >= 1901 and year <= 1910):
+            ofile = f'cru_ts4.04.1901.1910.{var}.dat.nc.gz'
+            _year = year-1901
         else:
-            print("year out of range: use 2011 to 2019")
+            print("year out of range: use 2011 to 2019, or 1901 to 1910")
             return(None)
         
         url=f'https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.04/' +\

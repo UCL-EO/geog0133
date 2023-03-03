@@ -85,8 +85,6 @@ Emissions
 * DeFries et al., 2008, Fire‐related carbon emissions from land use transitions in southern Amazonia, https://doi.org/10.1029/2008GL035689
 * Castellanos, P. Et al., 2014, Satellite observations indicate substantial spatiotemporal variability in biomass burning NOx emission factors for South America, Atmos. Chem. Phys., 14, 3929–3943, 2014 www.atmos-chem-phys.net/14/3929/2014/
 * Sloan, S et al., 2017, Fire activity in Borneo driven by industrial land conversion and drought during El Niño periods, 1982–2010, https://doi.org/10.1016/j.gloenvcha.2017.10.001
-* http://maps.geog.umd.edu/firms/
-* http://wfaa-dat.esrin.esa.int
 
 Models
 ~~~~~~

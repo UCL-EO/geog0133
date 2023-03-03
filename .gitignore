@@ -9,6 +9,7 @@ docs/data/cru*.dat.nc
 *.icloud
 docs/site/*
 *.dat.nc
+*.dat.nc.gz
 *_default.png
 docs/docs/*
 docs/ppt/~*
