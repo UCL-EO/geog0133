@@ -858,7 +858,7 @@ Suggested Reading
 * Bouttier, F. and Courtier, P. (1999) `Data assimilation concepts and methods <http://www.ecmwf.int/newsevents/training/rcourse_notes/DATA_ASSIMILATION/ASSIM_CONCEPTS/index.html>`_
 * Chib, S. and Greenberg, E., 1995, `Understanding the Metropolis-Hastings algorithm <http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDYQFjAB&url=http%3A%2F%2Felsa.berkeley.edu%2Freprints%2Fmisc%2Funderstanding.pdf&ei=_gZiT6y3NIKE8gPEsdm2CA&usg=AFQjCNEQzEdWw_OXsodFvzlbuv7Zen9mKA&sig2=BLHJNYPzAHlOU0xYkhUXJg>`_ , The american statistician, 49, 4, 327-355.
 * Enting, I. G. (2002), Inverse Problems in Atmospheric Constituent Transport, 392 pp., Cambridge Univ. Press, New York.
-* Wikle C.K. and Berliner L.M. (2006) `A Bayesian tutorial for data assimilation <http://www.deas.harvard.edu/climate/pdf/2007/Wikle_Berliner_InPress.pdf>`_ Physica D, doi:10.1016/j.physd.2006.09.017.
+* Wikle C.K. and Berliner L.M. (2006) `A Bayesian tutorial for data assimilation <https://courses.seas.harvard.edu/climate/pdf/2007/Wikle_Berliner_InPress.pdf>`_ Physica D, doi:10.1016/j.physd.2006.09.017.
 
 
 Advanced Reading
