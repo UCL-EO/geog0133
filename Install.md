@@ -16,12 +16,13 @@ If you want to just run through the practicals without saving material, then you
 
 This is the recommended option. You need internet access with reasonable reliability to use this, and you need to do a one-time setup of the course notes. After that, it should be easy to use. 
 
-There are two main ways you can access the UCL JupyterHub:
+There are three main ways you can access the UCL JupyterHub:
 
-i. through the UCL VPN
-ii. through UCL Desktop 
+i. whilst on campus
+ii. through the UCL VPN
+iii. through UCL Desktop 
 
-Follow the instructions below to log in to UCL JupyterHub and open a shell. After that, we will set up the notes.
+The first is recommended and requires no other step. Follow the instructions below to log in to UCL JupyterHub and open a shell. After that, we will set up the notes.
 
 ### Login using UCL VPN
 
@@ -130,13 +131,13 @@ If not, try logging out (of all shells and notebooks) again, log in again and re
     
 If you get `ModuleNotFoundError: No module named 'ephem'`, then you have not got the `geog0133` running for some reason. Log out and in again. Then try the solution above for if the notebook kernel cannot be found. If that test doesn't run, the practical won't run, so make sure to fix that first. Once you have it properly configured, it should work all other times you log in.
 
-If other issues, contact the [course convenor](mailto: p.lewis@ucl.ac.uk?subject=[geog0133 setup problem]), sending them exactly what you typed and the response you get when typing these commands.
+If other issues, contact the [course convenor](mailto: h.heorton@ucl.ac.uk), sending them exactly what you typed and the response you get when typing these commands. Alternately wait for the practical classes for assistance.
 
 Another way you can access this directory, should you need, is to use `ssh` to log in from a terminal to the UCL system (`ssh username@socrates.ucl.ac.uk`). 
 
 ### Summary for running on UCL JupyterHub
 
-1. Make sure you have the [UCL VPN](https://www.ucl.ac.uk/isd/services/get-connected/ucl-virtual-private-network-vpn) installed and running OR that you are running from [Desktop@UCL](https://www.ucl.ac.uk/isd/services/computers/remote-access/desktopucl-anywhere)
+1. Make sure you have the [UCL VPN](https://www.ucl.ac.uk/isd/services/get-connected/ucl-virtual-private-network-vpn) installed and running OR that you are running from [Desktop@UCL](https://www.ucl.ac.uk/isd/services/computers/remote-access/desktopucl-anywhere). 
 2. Log on the the [UCL JupyterHub](https://jupyter.data-science.rc.ucl.ac.uk/).
 3. Navigate to the directory `geog0133/docs/notebooks`
 4. Access the notebooks you want directly
