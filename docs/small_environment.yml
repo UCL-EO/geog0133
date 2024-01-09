@@ -1,7 +1,7 @@
 name: geog0111
 channels:
   - conda-forge
-  - defaults
+  - nodefaults
 dependencies:
   - python>=3.7
   - matplotlib

@@ -1,7 +1,7 @@
 name: geog0133
 channels:
   - conda-forge
-  - nodefaults
+  - defaults
 dependencies:
   - pyephem
   - git
