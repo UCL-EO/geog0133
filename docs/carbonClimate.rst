@@ -15,7 +15,7 @@ In this lecture, we will:
 
 You will need to do a considerable amount of reading as follow-up for this section, as it forms the basis of the rest of the course.
 
-A good place to start is the latest IPCC Synthesis Report (SYR). At present, this is the `Sixth (AR6) <https://www.ipcc.ch/assessment-report/ar6/>`_.
+A good place to start is the latest IPCC Synthesis Report (SYR). This is the `Sixth (AR6) <https://www.ipcc.ch/assessment-report/ar6/>`_.
 
 Terrestrial Climate and Climate Change
 --------------------------------------
