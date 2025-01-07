@@ -1,14 +1,14 @@
 # GEOG0113: Terrestrial Carbon: modelling and monitoring
 
 Staff:
-
+[Dr Martin Mokros](mailto:m.mokros@ucl.ac.uk)
 [Dr Harry Heorton](mailto:h.heorton@ucl.ac.uk)
 
 [![Documentation Status](https://readthedocs.org/projects/geog0133/badge/?version=latest)](https://geog0133.readthedocs.io/en/latest/?badge=latest)
 
-## Timetable Term 2 2023-24
+## Timetable Term 2 2024-25
 
-Lectures and practicals are in-person.
+Lectures and practicals are in person.
 
 Note that 1 week is designated 'catch up' to allow for student requests for deeper content analysis and coursework FAQs.
 
