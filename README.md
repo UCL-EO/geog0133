@@ -29,6 +29,6 @@ Note that 1 week is designated 'catch up' to allow for student requests for deep
 | 28 Feb  | 11:00-13:00 | Gordon Street 25 Maths 505 | 8  | 012 Measurement (student-led seminar)  | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/remoteSensing.rst)
 | 6 Mar | 11:00-13:00 | Gordon Street 25 Maths 505 |  9  | 011 Photosythesis Practical  | [Instructions](https://github.com/UCL-EO/geog0133/blob/main/docs/notebooks_lab/011_Photosynthesis_Modelling_Practical.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks_lab%2F011_Photosynthesis_Modelling_Practical.ipynb) [![Answers](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks_lab%2F011_Photosynthesis_Modelling_Practical_answers.ipynb)  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/notebooks_lab/011_Photosynthesis_Modelling_Practical.ipynb) | 
 | 13 Mar | 11:00-13:00 | Gordon Street 25 Maths 505 | 10  | 013 Data Assimilation   | [ppt](https://github.com/UCL-EO/geog0133/blob/main/docs/ppt/GEOG0113-014.pptx) | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/da_basics.rst)
-| |  |  |   | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/da.rst)
+| |  |  |   | Data Assimilation Applications | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/da.rst)
 | 20 Mar | 11:00-13:00 | Gordon Street 25 Maths 505 | 11  | Catch-up
 
