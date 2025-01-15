@@ -405,7 +405,7 @@ Texts of particular importance to this lecture are:
 
 * IPCC Sixth Assessment Report: `Working Group I: The Physical Science Basis <https://www.ipcc.ch/report/sixth-assessment-report-working-group-i>`_ 
 * `Radiative forcing <https://www.nap.edu/download/11175>`_
-* Friedlingstein et al 2023 `Global Carbon Budget 2023 <https://essd.copernicus.org/articles/15/5301/2023/>`_
+* Friedlingstein et al 2024 `Global Carbon Budget 2024 <https://essd.copernicus.org/preprints/essd-2024-519/>`_
 * Carbonbrief: `AR6 Q&A <https://www.carbonbrief.org/in-depth-qa-the-ipccs-sixth-assessment-report-on-climate-science>`_
 * AR6 `Technical summary <https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_TS.pdf>`_
 * Myhre, G., D. Shindell, F.-M. Bréon, W. Collins, J. Fuglestvedt, J. Huang, D. Koch, J.-F. Lamarque, D. Lee, B. Mendoza, T. Nakajima, A. Robock, G. Stephens, T. Takemura and H. Zhang, 2013: `Anthropogenic and Natural Radiative Forcing <https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter08_FINAL.pdf>`_. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
