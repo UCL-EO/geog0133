@@ -28,7 +28,7 @@ Note that 1 week is designated 'catch up' to allow for student requests for deep
 | 25 Feb | 11:00-13:00 | Bedford Way - Room: W3.07 | 7 |  011 Photosythesis Practical I | [Instructions](https://colab.research.google.com/drive/1G5al8koJIzB3DRzYV_CWR-nhSibp6nWP?usp=sharing)  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/notebooks_lab/011_Photosynthesis_Modelling_Practical.ipynb) | 
 | 4 Mar  | 11:00-13:00 | Bedford Way - Room: W3.07 | 8  | 011 Photosythesis Practical I | [Instructions](https://colab.research.google.com/drive/1G5al8koJIzB3DRzYV_CWR-nhSibp6nWP?usp=sharing) 
 | 11 Mar | 11:00-13:00 | Bedford Way - Room: W3.07 |  9  | 012 Synthesis and Data Assimilation   |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/synthesis.rst)  
-| 18 Mar | 11:00-13:00 | Bedford Way - Room: W3.07 | 10  | 013 Measurement (student-led seminar)  | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/remoteSensing.rst)
-| |  |  |   | 014 Data Assimilation Applications | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/da_basics.rst) [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/da.rst)
+| |  |  |   | 013 Data Assimilation Applications | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/da_basics.rst) [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/da.rst)
+| 18 Mar | 11:00-13:00 | Bedford Way - Room: W3.07 | 10  | 014 Measurement (student-led seminar)  | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/remoteSensing.rst)
 | 25 Mar | 11:00-13:00 | Bedford Way - Room: W3.07 | 11  | Catch-up
 
