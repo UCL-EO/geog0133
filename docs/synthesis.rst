@@ -37,6 +37,13 @@ Another aspect than can be investigated using this data is the total productivit
 
 [Source: `He et al. 2012, <https://onlinelibrary.wiley.com/doi/abs/10.1029/2010GB003942>`_]
 
+Current research looks to use the vast volumes of RS data to solve the problem of species identification. However, this is but one problem that emerges from forest and species level analysis of above ground biomass. The tree age and 
+
+.. figure:: species_sat.png
+    :width: 50%
+
+[Source: `Beloiu et al. 2023, <https://www.mdpi.com/2072-4292/15/5/1463>`_]
+
 
 CASE STUDY 2 - Stomatal Conductance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -75,6 +82,7 @@ A PEM will not have the detail representation of Stomatal conductance within it'
 
 Reading
 -------
+* Aboveground Woody Biomass Product Validation Good Practices Protocol, Source:https://lpvs.gsfc.nasa.gov/PDF/CEOS_WGCV_LPV_Biomass_Protocol_2021_V1.0.pdf.
 * Disney, M. et al. 2019. Innovations in Ground and Airborne Technologies as Reference and for Training and Validation: Terrestrial Laser Scanning (TLS). Surveys in Geophysics. 40, 4 (Jul. 2019), 937–958. DOI:https://doi.org/10.1007/s10712-019-09527-x.
 * He, L. et al. 2012. Relationships between net primary productivity and forest stand age in U.S. forests. Global Biogeochemical Cycles. 26, 3 (2012). DOI:https://doi.org/10.1029/2010GB003942.
 * Sack, L. and Scoffoni, C. 2012. Measurement of Leaf Hydraulic Conductance and Stomatal Conductance and Their Responses to Irradiance and Dehydration Using the Evaporative Flux Method (EFM). Journal of Visualized Experiments (JoVE). 70 (Dec. 2012), e4179. DOI:https://doi.org/10.3791/4179.
