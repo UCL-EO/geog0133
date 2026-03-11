@@ -39,14 +39,14 @@ Another aspect than can be investigated using this data is the total productivit
 
 Current research looks to use the vast volumes of RS data to solve the problem of species identification. However, this is but one problem that emerges from forest and species level analysis of above ground biomass. The tree species, age and health are interlinked within the appearance in images.
 
-.. figure:: species_sat.png
+.. figure:: figures/species_sat.png
     :width: 50%
 
 [Source: `Beloiu et al. 2023, <https://www.mdpi.com/2072-4292/15/5/1463>`_]
 
 An exciting development for 2026 is the new ESA satellite BIOMASS. This satellite was launched in 2025 and is in it's first stage of data acquisition. It uses a novel long wavelength P-band Interferometric Synthetic Aperture Radar Images (with a huge antenna!). 
 
-.. figure:: Sentinel-2_and_Biomass_ESA.jpg
+.. figure:: figures/Sentinel-2_and_Biomass_ESA.jpg
     :width: 80%
 
 [Comparing Sentinel 2 and BIOMASS, Source: `ESA, <https://earth.esa.int/eogateway/missions/biomass/biomass-data>`_]
