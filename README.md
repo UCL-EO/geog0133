@@ -30,5 +30,5 @@ Note that 1 week is designated 'catch up' to allow for student requests for deep
 | 11 Mar | 11:00-13:00 | Bedford Way - Room: W3.07 |  9  | 012 Synthesis and Data Assimilation   |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/synthesis.rst)  
 | |  |  |   | 013 Data Assimilation Applications | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/da_basics.rst) [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/da.rst)
 | 18 Mar | 11:00-13:00 | Bedford Way - Room: W3.07 | 10  | 014 Measurement (student-led seminar)  | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/remoteSensing.rst)
-| 25 Mar | 11:00-13:00 | Bedford Way - Room: W3.07 | 11  | Catch-up
+| 25 Mar | 11:00-13:00 | Bedford Way - Room: W3.07 | 11  | Catch-up  | | [presentation](docs/ppt/GEOG0113-2026_catch_up.pptx)
 
